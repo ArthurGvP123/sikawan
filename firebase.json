@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sikawan-lms",
+          "appId": "1:181665972324:android:f91323847803ef52bedf71",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sikawan-lms",
+          "configurations": {
+            "android": "1:181665972324:android:f91323847803ef52bedf71",
+            "ios": "1:181665972324:ios:760b8af9426e5cbcbedf71",
+            "macos": "1:181665972324:ios:760b8af9426e5cbcbedf71",
+            "web": "1:181665972324:web:5db7345425ff2430bedf71",
+            "windows": "1:181665972324:web:280eddf6e92af207bedf71"
+          }
+        }
+      }
+    }
+  }
+}

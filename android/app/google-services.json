@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181665972324",
+    "project_id": "sikawan-lms",
+    "storage_bucket": "sikawan-lms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181665972324:android:f91323847803ef52bedf71",
+        "android_client_info": {
+          "package_name": "com.example.sikawan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo7A1ULcOyTG89xjT0J4j43r6u8rkc-m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
